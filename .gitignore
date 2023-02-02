@@ -1,6 +1,7 @@
 *~
 local.mk
-build/
+build/*
+!build/pdfjs-viewer*
 tags
 .DS_Store
 Makefile
